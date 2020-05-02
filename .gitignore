@@ -13,4 +13,5 @@
 ###> Other files ###
 .idea
 .env.local
+docker-sync.yml
 ###< Other files ###
